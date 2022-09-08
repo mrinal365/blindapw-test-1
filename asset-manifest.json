@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2efc400.chunk.css",
+    "main.js": "/static/js/main.add87e30.chunk.js",
+    "main.js.map": "/static/js/main.add87e30.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.91805d53.js",
+    "runtime-main.js.map": "/static/js/runtime-main.91805d53.js.map",
+    "static/css/2.0e31c611.chunk.css": "/static/css/2.0e31c611.chunk.css",
+    "static/js/2.f70d360a.chunk.js": "/static/js/2.f70d360a.chunk.js",
+    "static/js/2.f70d360a.chunk.js.map": "/static/js/2.f70d360a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5f284d90d7967622997882051ad359a9.js": "/precache-manifest.5f284d90d7967622997882051ad359a9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.0e31c611.chunk.css.map": "/static/css/2.0e31c611.chunk.css.map",
+    "static/css/main.e2efc400.chunk.css.map": "/static/css/main.e2efc400.chunk.css.map",
+    "static/js/2.f70d360a.chunk.js.LICENSE.txt": "/static/js/2.f70d360a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/PressStart2P.74496d90.ttf",
+    "static/media/mintprice.png": "/static/media/mintprice.97d3342e.png",
+    "static/media/pic.gif": "/static/media/pic.4b18485e.gif",
+    "static/media/smolpunks.png": "/static/media/smolpunks.15098561.png",
+    "static/media/story.png": "/static/media/story.d47f90f9.png",
+    "static/media/tel.png": "/static/media/tel.3ab89f05.png",
+    "static/media/twi.png": "/static/media/twi.6ca2d940.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91805d53.js",
+    "static/css/2.0e31c611.chunk.css",
+    "static/js/2.f70d360a.chunk.js",
+    "static/css/main.e2efc400.chunk.css",
+    "static/js/main.add87e30.chunk.js"
+  ]
+}
